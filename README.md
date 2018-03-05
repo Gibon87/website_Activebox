@@ -1,6 +1,6 @@
 # <h1>Welcome on my Website_Activebox</h1>
 
-<p>During my Front-end bootcamp course I was made a simle Website, feel free to check it :) .</p>
+<p>During my Front-end bootcamp course I made a simple Website, feel free to check it :) .</p>
 
 Demo: 
 
